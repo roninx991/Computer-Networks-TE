@@ -1,0 +1,7 @@
+No.,Time,Source,Destination,Protocol,Length,Info
+1,0,10.10.12.110,224.0.0.251,TCP,179,"Standard query response 0x0000  PTR, cache flush node4.local AAAA, cache flush fd05:cc42:1c2::412"
+2,0.012231,117.18.237.29,10.10.15.237,TCP,60,http > 43368 [RST] Seq=1 Win=302 Len=0
+3,0.024584,fe80::84bd:4f03:d16d:7571,ff02::1:2,IP,149,Solicit XID: 0xbc4875 CID: 000100011c1d7c96f04da2f37d49 
+4,0.031938,Dell_27:49:60,Broadcast,ARP,60,Who has 192.168.25.250?  Tell 192.168.9.87
+5,0.052396,fe80::baca:3aff:febd:5dff,ff02::1:ff02:21a,ICMPv6,86,Neighbor Solicitation for fe80::726d:ecff:fe02:21a from b8:ca:3a:bd:5d:ff
+6,0.061676,10.10.12.57,224.0.0.251,UDP,90,"Standard query 0x0000  ANY linux-30.local, ""QM"" question"
